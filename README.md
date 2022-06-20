@@ -1,2 +1,2 @@
-# wp-embed-disabler
-WordPress Embed Disabler Plugin
+# WordPress Embed Disabler Plugin
+Disable wp-embed
